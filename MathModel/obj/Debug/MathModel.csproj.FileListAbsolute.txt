@@ -1,0 +1,10 @@
+C:\Users\admin\Source\Repos\MathModel\MathModel\bin\Debug\MathModel.exe.config
+C:\Users\admin\Source\Repos\MathModel\MathModel\bin\Debug\MathModel.exe
+C:\Users\admin\Source\Repos\MathModel\MathModel\bin\Debug\MathModel.pdb
+C:\Users\admin\Source\Repos\MathModel\MathModel\obj\Debug\MathModel.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\MathModel\MathModel\obj\Debug\MathModel.Properties.Resources.resources
+C:\Users\admin\Source\Repos\MathModel\MathModel\obj\Debug\MathModel.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\MathModel\MathModel\obj\Debug\MathModel.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\MathModel\MathModel\obj\Debug\MathModel.exe
+C:\Users\admin\Source\Repos\MathModel\MathModel\obj\Debug\MathModel.pdb
+C:\Users\admin\Source\Repos\MathModel\MathModel\obj\Debug\MathModel.Form1.resources
